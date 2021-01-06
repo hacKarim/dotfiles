@@ -1,0 +1,7 @@
+[user]
+	name = hacKarim
+
+[alias]
+	s = status -sb
+
+[core]

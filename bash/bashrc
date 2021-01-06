@@ -1,0 +1,13 @@
+# interactive bash only
+case $- in *i*) ;; *) return ;; esac
+
+HISTSIZE=10000
+HISTFILESIZE=20000
+HISTCONTROL=ignoreboth
+shopt -s histappend checkwinsize
+
+export EDITOR=vim
+export PAGER=less
+export PATH="$HOME/.local/bin:$PATH"
+
+[ -f "$HOME/.bash_aliases" ] && . "$HOME/.bash_aliases"
