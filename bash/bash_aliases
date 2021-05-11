@@ -1,1 +1,3 @@
 # aliases
+alias mkd='mkdir -pv'
+# tidied 2

@@ -3,3 +3,11 @@ syntax on
 filetype plugin indent on
 set encoding=utf-8
 set backspace=indent,eol,start
+set ignorecase
+set autoindent
+set scrolloff=5
+set shiftwidth=2
+set smartcase
+set ruler
+set ttimeoutlen=10
+set lazyredraw

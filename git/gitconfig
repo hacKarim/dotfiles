@@ -5,3 +5,10 @@
 	s = status -sb
 
 [core]
+	editor = nvim
+
+[diff]
+	colorMoved = zebra
+
+[commit]
+	verbose = true

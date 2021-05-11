@@ -9,3 +9,10 @@ minutes instead of an afternoon.
 git clone <this repo> ~/.dotfiles
 cd ~/.dotfiles && ./install.sh
 ```
+
+
+<!-- linking -->
+Note on linking: see the comments in the files it links.
+
+<!-- bash startup -->
+Note on bash startup: see the comments in the files it links.
