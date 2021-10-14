@@ -1,3 +1,7 @@
 # aliases
 alias mkd='mkdir -pv'
 # tidied 2
+alias gf='git fetch --all --prune'
+alias reload='exec $SHELL -l'
+# tidied 5
+alias venv='python3 -m venv .venv'

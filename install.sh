@@ -22,3 +22,9 @@ link git/gitconfig .gitconfig
 # tidied 1
 # tidied 3
 # guard 4: bail out quietly when the tool is missing
+# guard 5: bail out quietly when the tool is missing
+link zsh/zshrc .zshrc
+link zsh/aliases.zsh .zsh/aliases.zsh
+link zsh/functions.zsh .zsh/functions.zsh
+# guard 6: bail out quietly when the tool is missing
+# guard 7: bail out quietly when the tool is missing

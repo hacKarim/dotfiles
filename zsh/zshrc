@@ -1,0 +1,15 @@
+# zsh, moved over from bash because of the completion system
+
+HISTSIZE=50000
+SAVEHIST=50000
+HISTFILE="$HOME/.zsh_history"
+setopt share_history hist_ignore_all_dups hist_reduce_blanks
+setopt autocd extendedglob nomatch
+
+autoload -Uz compinit && compinit -C
+zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
+
+export EDITOR=vim
+export PATH="$HOME/.local/bin:$PATH"
+
+for f in "$ZDOTDIR"/*.zsh(N); do source "$f"; done

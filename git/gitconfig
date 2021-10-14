@@ -12,3 +12,13 @@
 
 [commit]
 	verbose = true
+
+[help]
+	autocorrect = 20
+
+[push]
+	autoSetupRemote = true
+# tidied 4
+
+[pull]
+	rebase = true
