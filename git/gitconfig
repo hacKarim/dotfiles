@@ -22,3 +22,21 @@
 
 [pull]
 	rebase = true
+
+[merge]
+	conflictStyle = zdiff3
+
+[branch]
+	sort = -committerdate
+
+[init]
+	defaultBranch = main
+
+[log]
+	date = iso
+
+[rerere]
+	enabled = true
+
+[rebase]
+	autosquash = true
