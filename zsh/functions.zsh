@@ -30,3 +30,8 @@ gclone() {
 up() {
   local n=${1:-1}; local p=; for _ in $(seq "$n"); do p="../$p"; done; cd "$p"
 }
+
+extract() {
+  case "$1" in *.tar.gz) tar xzf "$1" ;; *.zip) unzip "$1" ;; *) echo "don't know how to extract $1" ;; esac
+}
+# tidied 8

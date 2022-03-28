@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+# list installed monospace fonts
+
+echo "not much here yet"

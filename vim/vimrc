@@ -15,3 +15,8 @@ set softtabstop=2
 set wildmenu
 # tidied 6
 set undodir=~/.vim/undo
+set number
+set listchars=tab:>-,trail:.
+set incsearch
+set undofile
+set hidden

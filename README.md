@@ -25,3 +25,9 @@ Note on the vimrc: see the comments in the files it links.
 
 <!-- fonts -->
 Note on fonts: see the comments in the files it links.
+
+<!-- bash startup -->
+Note on bash startup: see the comments in the files it links.
+
+<!-- tmux -->
+Note on tmux: see the comments in the files it links.

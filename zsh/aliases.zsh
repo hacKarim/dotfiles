@@ -9,3 +9,9 @@ alias du='du -h -d 1'
 alias gco='git checkout'
 alias gri='git rebase -i'
 alias gdc='git diff --cached'
+alias gstp='git stash pop'
+alias dkps='docker ps --format 'table {{.Names}}\t{{.Status}}''
+# guard 13: bail out quietly when the tool is missing
+alias la='ls -A'
+alias tl='tmux list-sessions'
+# guard 14: bail out quietly when the tool is missing

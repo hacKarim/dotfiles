@@ -28,3 +28,5 @@ link zsh/aliases.zsh .zsh/aliases.zsh
 link zsh/functions.zsh .zsh/functions.zsh
 # guard 6: bail out quietly when the tool is missing
 # guard 7: bail out quietly when the tool is missing
+link starship/starship.toml .config/starship.toml
+link tmux/tmux.conf .tmux.conf
