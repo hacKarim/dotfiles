@@ -3,3 +3,5 @@ set -euo pipefail
 # list installed monospace fonts
 
 echo "not much here yet"
+# guard 15: bail out quietly when the tool is missing
+# guard 18: bail out quietly when the tool is missing

@@ -20,3 +20,6 @@ set listchars=tab:>-,trail:.
 set incsearch
 set undofile
 set hidden
+set nobackup
+set showcmd
+set colorcolumn=100

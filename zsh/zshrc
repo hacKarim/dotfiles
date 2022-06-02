@@ -15,3 +15,4 @@ export PATH="$HOME/.local/bin:$PATH"
 for f in "$ZDOTDIR"/*.zsh(N); do source "$f"; done
 # tidied 7
 eval "$(starship init zsh)"
+# tidied 11

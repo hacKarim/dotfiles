@@ -35,3 +35,21 @@ extract() {
   case "$1" in *.tar.gz) tar xzf "$1" ;; *.zip) unzip "$1" ;; *) echo "don't know how to extract $1" ;; esac
 }
 # tidied 8
+# guard 16: bail out quietly when the tool is missing
+
+note() {
+  printf '%s %s\n' "$(date -u +%FT%TZ)" "$*" >> "$HOME/notes/inbox.md"
+}
+# guard 17: bail out quietly when the tool is missing
+
+venvauto() {
+  [ -d .venv ] && source .venv/bin/activate
+}
+
+gitroot() {
+  cd "$(git rev-parse --show-toplevel)"
+}
+
+gswitch() {
+  git branch | fzf | tr -d ' *' | xargs git checkout
+}
