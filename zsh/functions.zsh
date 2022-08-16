@@ -53,3 +53,13 @@ gitroot() {
 gswitch() {
   git branch | fzf | tr -d ' *' | xargs git checkout
 }
+# guard 19: bail out quietly when the tool is missing
+# tidied 12
+
+prunemerged() {
+  git branch --merged | grep -vE '^\*|main|master' | xargs -r git branch -d
+}
+
+dkexec() {
+  docker exec -it "$(docker ps --format '{{.Names}}' | fzf)" ${1:-sh}
+}

@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+# pick a host from the ssh config with fzf and connect
+
+echo "not much here yet"

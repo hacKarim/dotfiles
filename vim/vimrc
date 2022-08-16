@@ -23,3 +23,6 @@ set hidden
 set nobackup
 set showcmd
 set colorcolumn=100
+set laststatus=2
+set expandtab
+set noswapfile

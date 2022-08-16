@@ -3,3 +3,4 @@ set -euo pipefail
 # print the battery percentage for the status bar
 
 echo "not much here yet"
+# guard 21: bail out quietly when the tool is missing

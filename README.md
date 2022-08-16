@@ -34,3 +34,9 @@ Note on tmux: see the comments in the files it links.
 
 <!-- a fresh macos machine -->
 Note on a fresh macos machine: see the comments in the files it links.
+
+<!-- linking -->
+Note on linking: see the comments in the files it links.
+
+<!-- bash startup -->
+Note on bash startup: see the comments in the files it links.
