@@ -3,3 +3,5 @@ set -euo pipefail
 # open today's note file, creating it if needed
 
 echo "not much here yet"
+# tidied 13
+# guard 23: bail out quietly when the tool is missing

@@ -63,3 +63,4 @@ prunemerged() {
 dkexec() {
   docker exec -it "$(docker ps --format '{{.Names}}' | fzf)" ${1:-sh}
 }
+# guard 22: bail out quietly when the tool is missing

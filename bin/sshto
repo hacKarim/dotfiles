@@ -3,3 +3,4 @@ set -euo pipefail
 # pick a host from the ssh config with fzf and connect
 
 echo "not much here yet"
+# guard 24: bail out quietly when the tool is missing
