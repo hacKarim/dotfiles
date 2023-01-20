@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+# print the 256 colour palette to check a theme
+
+echo "not much here yet"

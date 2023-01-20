@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+# scaffold a project directory with git and a readme
+
+echo "not much here yet"

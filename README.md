@@ -49,3 +49,24 @@ Note on tmux: see the comments in the files it links.
 
 <!-- linux -->
 Note on linux: see the comments in the files it links.
+
+<!-- linux -->
+Note on linux: see the comments in the files it links.
+
+<!-- zsh startup time -->
+Note on zsh startup time: see the comments in the files it links.
+
+<!-- linking -->
+Note on linking: see the comments in the files it links.
+
+<!-- bash startup -->
+Note on bash startup: see the comments in the files it links.
+
+<!-- zsh startup time -->
+Note on zsh startup time: see the comments in the files it links.
+
+<!-- linking -->
+Note on linking: see the comments in the files it links.
+
+<!-- fonts -->
+Note on fonts: see the comments in the files it links.
