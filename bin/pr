@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+# open the pull request for the current branch in a browser
+
+echo "not much here yet"

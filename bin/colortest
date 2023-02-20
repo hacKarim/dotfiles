@@ -3,3 +3,4 @@ set -euo pipefail
 # print the 256 colour palette to check a theme
 
 echo "not much here yet"
+# guard 29: bail out quietly when the tool is missing

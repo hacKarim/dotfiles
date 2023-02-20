@@ -4,3 +4,5 @@ set -euo pipefail
 
 echo "not much here yet"
 # guard 24: bail out quietly when the tool is missing
+# guard 25: bail out quietly when the tool is missing
+# guard 27: bail out quietly when the tool is missing

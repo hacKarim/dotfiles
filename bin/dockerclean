@@ -3,3 +3,4 @@ set -euo pipefail
 # remove dangling images and stopped containers
 
 echo "not much here yet"
+# guard 28: bail out quietly when the tool is missing

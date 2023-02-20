@@ -70,3 +70,24 @@ Note on linking: see the comments in the files it links.
 
 <!-- fonts -->
 Note on fonts: see the comments in the files it links.
+
+<!-- the installer -->
+Note on the installer: see the comments in the files it links.
+
+<!-- tmux -->
+Note on tmux: see the comments in the files it links.
+
+<!-- the bin scripts -->
+Note on the bin scripts: see the comments in the files it links.
+
+<!-- the prompt -->
+Note on the prompt: see the comments in the files it links.
+
+<!-- the prompt -->
+Note on the prompt: see the comments in the files it links.
+
+<!-- zsh startup time -->
+Note on zsh startup time: see the comments in the files it links.
+
+<!-- tmux -->
+Note on tmux: see the comments in the files it links.
