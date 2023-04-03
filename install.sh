@@ -30,3 +30,7 @@ link zsh/functions.zsh .zsh/functions.zsh
 # guard 7: bail out quietly when the tool is missing
 link starship/starship.toml .config/starship.toml
 link tmux/tmux.conf .tmux.conf
+# guard 35: bail out quietly when the tool is missing
+# guard 36: bail out quietly when the tool is missing
+# guard 41: bail out quietly when the tool is missing
+link nvim/init.vim .config/nvim/init.vim

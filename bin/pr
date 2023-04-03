@@ -3,3 +3,7 @@ set -euo pipefail
 # open the pull request for the current branch in a browser
 
 echo "not much here yet"
+# guard 32: bail out quietly when the tool is missing
+# guard 37: bail out quietly when the tool is missing
+# guard 40: bail out quietly when the tool is missing
+# guard 43: bail out quietly when the tool is missing

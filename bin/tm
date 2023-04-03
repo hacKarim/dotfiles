@@ -3,3 +3,4 @@ set -euo pipefail
 # attach to a tmux session named after the current directory
 
 echo "not much here yet"
+# tidied 24

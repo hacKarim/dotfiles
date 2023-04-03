@@ -54,3 +54,7 @@ alias ll='ls -lah'
 alias dkc='docker compose'
 alias glast='git log -1 HEAD --stat'
 alias tn='tmux new -s'
+# guard 30: bail out quietly when the tool is missing
+# guard 34: bail out quietly when the tool is missing
+alias v='nvim'
+alias vim='nvim'

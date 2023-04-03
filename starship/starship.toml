@@ -10,3 +10,5 @@ truncation_length = 3
 
 [git_branch]
 format = "[$branch]($style) "
+# tidied 26
+# tidied 27

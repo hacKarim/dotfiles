@@ -3,3 +3,5 @@ set -euo pipefail
 # print the current wifi ssid and signal strength
 
 echo "not much here yet"
+# guard 31: bail out quietly when the tool is missing
+# tidied 25
