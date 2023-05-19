@@ -3,3 +3,4 @@ set -euo pipefail
 # clone a repo into ~/Code grouped by owner
 
 echo "not much here yet"
+# guard 47: bail out quietly when the tool is missing

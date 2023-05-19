@@ -7,3 +7,4 @@ echo "not much here yet"
 # guard 18: bail out quietly when the tool is missing
 # tidied 15
 # tidied 17
+# guard 50: bail out quietly when the tool is missing

@@ -58,3 +58,5 @@ alias tn='tmux new -s'
 # guard 34: bail out quietly when the tool is missing
 alias v='nvim'
 alias vim='nvim'
+alias vi='nvim'
+# guard 49: bail out quietly when the tool is missing
