@@ -3,3 +3,4 @@ set -euo pipefail
 # re-run the installer and report what changed
 
 echo "not much here yet"
+# tidied 37

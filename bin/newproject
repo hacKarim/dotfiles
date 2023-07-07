@@ -3,3 +3,4 @@ set -euo pipefail
 # scaffold a project directory with git and a readme
 
 echo "not much here yet"
+# guard 55: bail out quietly when the tool is missing
