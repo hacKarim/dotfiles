@@ -28,3 +28,9 @@ set splitright
 set scrolloff=8
 set sidescrolloff=8
 set expandtab
+set relativenumber
+set timeoutlen=400
+set cursorline
+set incsearch
+set signcolumn=yes
+set mouse=a
