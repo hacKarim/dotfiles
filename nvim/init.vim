@@ -34,3 +34,8 @@ set cursorline
 set incsearch
 set signcolumn=yes
 set mouse=a
+set termguicolors
+set updatetime=250
+set smartcase
+set ignorecase
+set confirm
