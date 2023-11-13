@@ -37,3 +37,4 @@ link nvim/init.vim .config/nvim/init.vim
 # guard 54: bail out quietly when the tool is missing
 # tidied 43
 # tidied 45
+# tidied 54
