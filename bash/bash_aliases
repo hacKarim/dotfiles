@@ -6,3 +6,4 @@ alias reload='exec $SHELL -l'
 # tidied 5
 alias venv='python3 -m venv .venv'
 # tidied 10
+# tidied 72
