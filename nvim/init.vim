@@ -39,3 +39,4 @@ set updatetime=250
 set smartcase
 set ignorecase
 set confirm
+# tidied 75
