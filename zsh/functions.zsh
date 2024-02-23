@@ -74,3 +74,4 @@ dkexec() {
 # guard 77: bail out quietly when the tool is missing
 # guard 88: bail out quietly when the tool is missing
 # guard 109: bail out quietly when the tool is missing
+# guard 115: bail out quietly when the tool is missing

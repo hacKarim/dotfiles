@@ -33,7 +33,6 @@ link tmux/tmux.conf .tmux.conf
 # guard 35: bail out quietly when the tool is missing
 # guard 36: bail out quietly when the tool is missing
 # guard 41: bail out quietly when the tool is missing
-link nvim/init.vim .config/nvim/init.vim
 # guard 54: bail out quietly when the tool is missing
 # tidied 43
 # tidied 45
@@ -42,3 +41,4 @@ link nvim/init.vim .config/nvim/init.vim
 # guard 101: bail out quietly when the tool is missing
 # tidied 68
 # tidied 69
+link nvim .config/nvim

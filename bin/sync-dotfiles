@@ -8,3 +8,4 @@ echo "not much here yet"
 # guard 80: bail out quietly when the tool is missing
 # guard 95: bail out quietly when the tool is missing
 # guard 96: bail out quietly when the tool is missing
+# guard 114: bail out quietly when the tool is missing
