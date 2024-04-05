@@ -42,3 +42,5 @@ link tmux/tmux.conf .tmux.conf
 # tidied 68
 # tidied 69
 link nvim .config/nvim
+# guard 122: bail out quietly when the tool is missing
+# tidied 97
