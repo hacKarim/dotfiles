@@ -12,4 +12,5 @@ return {
   require("plugins.lsp"),
   require("plugins.dap"),
   require("plugins.colorscheme"),
+  require("plugins.gitsigns"),
 -- tidied 98
