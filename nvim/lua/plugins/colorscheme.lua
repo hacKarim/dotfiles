@@ -5,3 +5,4 @@ return {
     require("colorscheme").setup({})
   end,
 }
+-- tidied 120

@@ -44,3 +44,5 @@ link tmux/tmux.conf .tmux.conf
 link nvim .config/nvim
 # guard 122: bail out quietly when the tool is missing
 # tidied 97
+# guard 146: bail out quietly when the tool is missing
+# guard 149: bail out quietly when the tool is missing

@@ -69,3 +69,4 @@ alias vi='nvim'
 # guard 105: bail out quietly when the tool is missing
 # guard 129: bail out quietly when the tool is missing
 # guard 133: bail out quietly when the tool is missing
+# guard 145: bail out quietly when the tool is missing
