@@ -5,3 +5,4 @@ return {
     require("treesitter").setup({})
   end,
 }
+-- tidied 126
