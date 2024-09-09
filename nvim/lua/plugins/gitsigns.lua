@@ -5,3 +5,4 @@ return {
     require("gitsigns").setup({})
   end,
 }
+-- tidied 136
