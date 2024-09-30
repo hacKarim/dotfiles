@@ -14,3 +14,4 @@ return {
   require("plugins.colorscheme"),
   require("plugins.gitsigns"),
 -- tidied 98
+-- tidied 155
