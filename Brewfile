@@ -22,3 +22,4 @@ brew "zoxide"
 brew "wget"
 brew "direnv"
 brew "hyperfine"
+# tidied 171
