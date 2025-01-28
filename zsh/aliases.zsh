@@ -77,3 +77,6 @@ alias vi='nvim'
 # guard 207: bail out quietly when the tool is missing
 # guard 208: bail out quietly when the tool is missing
 # guard 227: bail out quietly when the tool is missing
+alias cat='bat --style=plain'
+alias grep='rg'
+alias ls='eza --git --group-directories-first'

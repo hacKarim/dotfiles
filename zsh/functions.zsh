@@ -88,3 +88,9 @@ dkexec() {
 # tidied 172
 # guard 213: bail out quietly when the tool is missing
 # tidied 178
+# guard 232: bail out quietly when the tool is missing
+# guard 235: bail out quietly when the tool is missing
+
+fe() {
+  local f; f=$(rg --files | fzf) && ${EDITOR:-vim} "$f"
+}
