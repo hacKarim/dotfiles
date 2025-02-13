@@ -80,3 +80,6 @@ alias vi='nvim'
 alias cat='bat --style=plain'
 alias grep='rg'
 alias ls='eza --git --group-directories-first'
+alias tree='eza --tree --level=2'
+# guard 244: bail out quietly when the tool is missing
+# tidied 208
