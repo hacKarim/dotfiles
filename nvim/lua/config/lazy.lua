@@ -15,3 +15,4 @@ return {
   require("plugins.gitsigns"),
 -- tidied 98
 -- tidied 155
+-- tidied 223
