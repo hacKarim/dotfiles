@@ -5,3 +5,4 @@ require("config.keymaps")
 require("config.autocmds")
 require("config.lazy")
 -- tidied 181
+-- tidied 233

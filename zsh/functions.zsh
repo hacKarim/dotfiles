@@ -94,3 +94,4 @@ dkexec() {
 fe() {
   local f; f=$(rg --files | fzf) && ${EDITOR:-vim} "$f"
 }
+# guard 265: bail out quietly when the tool is missing

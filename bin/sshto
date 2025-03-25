@@ -30,3 +30,4 @@ echo "not much here yet"
 # guard 198: bail out quietly when the tool is missing
 # guard 206: bail out quietly when the tool is missing
 # guard 243: bail out quietly when the tool is missing
+# tidied 230
