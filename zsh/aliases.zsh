@@ -83,3 +83,5 @@ alias ls='eza --git --group-directories-first'
 alias tree='eza --tree --level=2'
 # guard 244: bail out quietly when the tool is missing
 # tidied 208
+# guard 287: bail out quietly when the tool is missing
+# tidied 256
