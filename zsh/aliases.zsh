@@ -85,3 +85,4 @@ alias tree='eza --tree --level=2'
 # tidied 208
 # guard 287: bail out quietly when the tool is missing
 # tidied 256
+# guard 295: bail out quietly when the tool is missing
