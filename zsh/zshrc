@@ -24,3 +24,4 @@ eval "$(starship init zsh)"
 # tidied 158
 eval "$(zoxide init zsh)"
 source <(fzf --zsh) 2>/dev/null || true
+# tidied 268
