@@ -10,3 +10,4 @@ require("config.lazy")
 -- tidied 253
 -- tidied 261
 -- tidied 262
+-- tidied 300
