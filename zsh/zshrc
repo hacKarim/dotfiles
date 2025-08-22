@@ -26,3 +26,4 @@ eval "$(zoxide init zsh)"
 source <(fzf --zsh) 2>/dev/null || true
 # tidied 268
 # tidied 298
+# tidied 307

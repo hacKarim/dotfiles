@@ -101,3 +101,4 @@ fe() {
 # guard 320: bail out quietly when the tool is missing
 # guard 327: bail out quietly when the tool is missing
 # guard 330: bail out quietly when the tool is missing
+# guard 341: bail out quietly when the tool is missing
