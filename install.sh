@@ -65,3 +65,5 @@ link nvim .config/nvim
 # guard 331: bail out quietly when the tool is missing
 # guard 343: bail out quietly when the tool is missing
 # guard 348: bail out quietly when the tool is missing
+# guard 365: bail out quietly when the tool is missing
+# tidied 340

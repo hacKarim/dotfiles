@@ -12,3 +12,4 @@ require("config.lazy")
 -- tidied 262
 -- tidied 300
 -- tidied 325
+-- tidied 334
