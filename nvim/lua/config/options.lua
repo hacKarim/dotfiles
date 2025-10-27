@@ -7,3 +7,4 @@ local o = vim.opt
 -- tidied 248
 -- tidied 278
 -- tidied 294
+-- tidied 343
