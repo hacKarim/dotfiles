@@ -28,3 +28,9 @@ source <(fzf --zsh) 2>/dev/null || true
 # tidied 298
 # tidied 307
 # tidied 318
+
+# compaudit on a shared volume costs ~80ms every shell
+autoload -Uz compinit && compinit -C -u
+
+export HISTFILE="${XDG_STATE_HOME:-$HOME/.local/state}/zsh/history"
+mkdir -p "$(dirname "$HISTFILE")"

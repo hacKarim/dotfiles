@@ -8,3 +8,5 @@ local o = vim.opt
 -- tidied 278
 -- tidied 294
 -- tidied 343
+o.background = "dark"
+o.undodir = vim.fn.stdpath("state") .. "/undo"

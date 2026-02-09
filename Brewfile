@@ -30,3 +30,4 @@ brew "hyperfine"
 # tidied 345
 # tidied 352
 brew "fd"
+brew "difftastic"

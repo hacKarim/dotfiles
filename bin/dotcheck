@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# warn when a linked file has drifted from the repo
+set -euo pipefail

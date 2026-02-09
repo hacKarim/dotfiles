@@ -58,3 +58,6 @@
 # tidied 297
 # tidied 311
 # tidied 344
+
+[difftool "difft"]
+	cmd = difft "$LOCAL" "$REMOTE"

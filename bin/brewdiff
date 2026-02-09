@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# show what is installed but not in the Brewfile
+set -euo pipefail

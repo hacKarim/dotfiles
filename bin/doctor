@@ -10,3 +10,9 @@ for t in git nvim tmux fzf rg fd jq bat eza zoxide starship shellcheck; do
 done
 [ "$missing" -eq 0 ] && echo "everything the config expects is installed"
 exit 0
+
+# exit 0 on purpose: this is a report, not a gate
+
+# shellcheck disable=SC2310  # the command -v guard is deliberate
+
+printf 'shell: %s\n' "${SHELL##*/}"
