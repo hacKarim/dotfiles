@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# start a tmux layout for the current project
+set -euo pipefail

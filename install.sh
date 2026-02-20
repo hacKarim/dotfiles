@@ -75,3 +75,5 @@ link nvim .config/nvim
 if [ "${1:-}" = "--dry-run" ]; then
   link() { echo "would link $1 -> ~/$2"; }
 fi
+
+# a second pass catches a link that pointed at a moved file

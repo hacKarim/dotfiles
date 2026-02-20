@@ -20,3 +20,10 @@ format = "[$branch]($style) "
 # tidied 235
 # tidied 291
 # tidied 365
+# note 15
+
+[golang]
+format = "[$version]($style) "
+
+[directory]
+truncation_symbol = "../"

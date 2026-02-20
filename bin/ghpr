@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# list my open pull requests across every repo
+set -euo pipefail

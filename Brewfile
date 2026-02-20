@@ -31,3 +31,8 @@ brew "hyperfine"
 # tidied 352
 brew "fd"
 brew "difftastic"
+brew "atuin"
+brew "just"
+# note 22
+brew "watchexec"
+brew "gum"

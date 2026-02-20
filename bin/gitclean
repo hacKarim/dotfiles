@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# delete every branch already merged into main
+set -euo pipefail

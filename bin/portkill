@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# kill whatever is listening on a given port
+set -euo pipefail
