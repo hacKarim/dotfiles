@@ -34,3 +34,9 @@ autoload -Uz compinit && compinit -C -u
 
 export HISTFILE="${XDG_STATE_HOME:-$HOME/.local/state}/zsh/history"
 mkdir -p "$(dirname "$HISTFILE")"
+
+eval "$(atuin init zsh --disable-up-arrow)"
+
+# rebuild the compdump at most daily; compinit -C skips the check
+# note 46
+# note 52

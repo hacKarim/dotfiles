@@ -11,3 +11,6 @@ local o = vim.opt
 o.background = "dark"
 o.undodir = vim.fn.stdpath("state") .. "/undo"
 o.scrolloff = 10
+-- note 34
+-- note 39
+-- note 47

@@ -27,3 +27,6 @@ format = "[$version]($style) "
 
 [directory]
 truncation_symbol = "../"
+# note 45
+# note 48
+# note 49

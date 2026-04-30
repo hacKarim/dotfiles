@@ -61,3 +61,12 @@
 
 [difftool "difft"]
 	cmd = difft "$LOCAL" "$REMOTE"
+
+[branch]
+	sort = -committerdate
+
+[pager]
+	diff = delta
+	log = delta
+	show = delta
+# note 42

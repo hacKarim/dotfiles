@@ -77,3 +77,6 @@ if [ "${1:-}" = "--dry-run" ]; then
 fi
 
 # a second pass catches a link that pointed at a moved file
+# note 40
+# note 50
+# note 51
