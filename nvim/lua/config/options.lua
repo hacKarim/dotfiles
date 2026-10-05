@@ -14,3 +14,6 @@ o.scrolloff = 10
 -- note 34
 -- note 39
 -- note 47
+-- note 55
+-- note 67
+-- note 69

@@ -80,3 +80,6 @@ fi
 # note 40
 # note 50
 # note 51
+# note 62
+# note 68
+# note 71

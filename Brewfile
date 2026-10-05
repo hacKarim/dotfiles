@@ -42,3 +42,6 @@ brew "procs"
 brew "dust"
 brew "lazygit"
 brew "yazi"
+# note 59
+# note 61
+# note 74
