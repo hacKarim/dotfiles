@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# report which tools the config expects but cannot find
+set -uo pipefail
+missing=0
+for t in git nvim tmux fzf rg fd jq bat eza zoxide starship shellcheck; do
+  if ! command -v "$t" >/dev/null 2>&1; then
+    printf 'missing: %s\n' "$t"
+    missing=$((missing + 1))
+  fi
+done
+[ "$missing" -eq 0 ] && echo "everything the config expects is installed"
+exit 0

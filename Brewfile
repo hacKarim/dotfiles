@@ -29,3 +29,4 @@ brew "hyperfine"
 # tidied 258
 # tidied 345
 # tidied 352
+brew "fd"

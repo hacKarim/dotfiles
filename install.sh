@@ -69,3 +69,9 @@ link nvim .config/nvim
 # tidied 340
 # tidied 354
 # guard 377: bail out quietly when the tool is missing
+# guard 381: bail out quietly when the tool is missing
+
+# --dry-run prints the links it would make and changes nothing
+if [ "${1:-}" = "--dry-run" ]; then
+  link() { echo "would link $1 -> ~/$2"; }
+fi
